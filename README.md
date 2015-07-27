@@ -8,3 +8,13 @@ LeetCode is a social platform for preparing IT technical interviews. We strive t
 - Read: http://discuss.leetcode.com/
 - LeetCode Question Difficulty Distribution
 - Solution of Annie Kim: https://github.com/AnnieKim/LeetCode
+
+#Index
+### array
+- [Contains Duplicate](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/ContainsDuplicate)
+- [Majority Element](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/MajorityElement)
+- [Pascal's Triangle](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/PascalTriangle)
+- [Remove Element](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/RemoveElement)
+- [Remove Duplicates from Sorted Array](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/RemvDupfromSortedArr)
+- [Rotate Array](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/RotateArray)
+- [Summary Ranges](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/SummaryRanges)
