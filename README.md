@@ -10,7 +10,7 @@ LeetCode is a social platform for preparing IT technical interviews. We strive t
 - Solution of Annie Kim: https://github.com/AnnieKim/LeetCode
 
 #Index
-### array
+### Array
 - [Contains Duplicate](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/ContainsDuplicate)
 - [Majority Element](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/MajorityElement)
 - [Pascal's Triangle](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/PascalTriangle)
@@ -19,3 +19,6 @@ LeetCode is a social platform for preparing IT technical interviews. We strive t
 - [Rotate Array](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/RotateArray)
 - [Summary Ranges](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/SummaryRanges)
 - [SetMatrixZeroes](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/SetMatrixZeroes)
+
+### Tree
+- [Invert Binary Tree](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/InvertBinaryTree)
