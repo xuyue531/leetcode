@@ -22,3 +22,4 @@ LeetCode is a social platform for preparing IT technical interviews. We strive t
 
 ### Tree
 - [Invert Binary Tree](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/InvertBinaryTree)
+- [Path Sum](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/PathSum)
