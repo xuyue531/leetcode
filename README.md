@@ -18,3 +18,4 @@ LeetCode is a social platform for preparing IT technical interviews. We strive t
 - [Remove Duplicates from Sorted Array](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/RemvDupfromSortedArr)
 - [Rotate Array](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/RotateArray)
 - [Summary Ranges](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/SummaryRanges)
+- [SetMatrixZeroes](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/array/SetMatrixZeroes)
