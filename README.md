@@ -24,4 +24,4 @@ LeetCode is a social platform for preparing IT technical interviews. We strive t
 - [Invert Binary Tree](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/InvertBinaryTree)
 - [Path Sum](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/PathSum)
 - [Same Tree](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/SameTree)
-- [Minimum Depth of Binary Tree](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/MinimumDepthofBinaryTree)
+- [Minimum Depth of Binary Tree(辅助函数：给出层次遍历数组，初始化一棵二叉树，不存在的节点为null)](https://github.com/xuyue531/leetcode/tree/master/src/com/xuyue/tree/MinimumDepthofBinaryTree)
